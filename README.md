@@ -7,8 +7,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2BCFF&height=2&section=header" />
 
 <p align="center">🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil!🖤❤️🤍</p>
-<p>🗣️ Me chamo, Francisco Júnior. Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - UFERSA e atualmente Mestrando em Engenharia Elétrica, pelo Programa de Pós Graduação em Engenharia Elétrica - PPgEE - UFERSA.</p>
-<br/>
+<p>🗣️ Me chamo, Francisco Júnior. Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - UFERSA, atualmente Mestrando em Engenharia Elétrica, pelo Programa de Pós Graduação em Engenharia Elétrica - PPgEE - UFERSA.</p>
+
 <p>Desenvolvedor Web com experiência em projetos Front-End, utilizando tecnologias como Html5, Css3, Javascript, React.js, Typescript, Tailwind, Bootstrap e Next.js. Possuo conhecimentos sólidos em Banco de Dados relacional, linguagem SQL com PostgreSQL e Git para controle e versionamento de projetos, armazenados no Github.</p>
 
 <p>Apaixonado por desenvolvimento Web e suas vertentes, desde métodos de UI/UX até experiências finas em etapas de desenvolvimento de software. Possuo habilidades analíticas e pensamento crítico, além de bom relacionamento interpessoal, trabalhando bem em equipe, com boa comunicação, organização, proatividade e resiliência.</p>
